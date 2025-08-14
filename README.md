@@ -11,12 +11,15 @@ Knee Detection Project: https://github.com/Lu-Yik-Ho/Knee-Lateral-Xray-RoI-Detec
 # Masks Produced:
 
 Patella:
+
 <img width="636" height="636" alt="103854_C_Patella_PMask" src="https://github.com/user-attachments/assets/df39ff5f-3e37-4798-921b-722d57188ac1" />
 
 Femur:
+
 <img width="636" height="636" alt="103854_C_Femur_PMask" src="https://github.com/user-attachments/assets/a6170a16-bedc-436d-ac10-a990a0af457d" />
 
 Tibia:
+
 <img width="636" height="636" alt="103854_C_Tibia_PMask" src="https://github.com/user-attachments/assets/ef53de16-5df8-4fa9-8fab-3f4e4194ec3d" />
 
 # Files:
