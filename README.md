@@ -1,7 +1,7 @@
 # Knee-Lateral-Xray-Bone-Segmentation-Model-Program
 A program containing steps to fine-tune a YOLO segmentation model, and applying said model to generate a mask image for each bone in the knee lateral X-ray image.
 
-This program is a direct continuation of the Knee Detection project.
+This program is a direct continuation of the Knee Region of Interest Detection project.
 
 Knee Detection Project: https://github.com/Lu-Yik-Ho/Knee-Lateral-Xray-RoI-Detection-Model-Program
 
