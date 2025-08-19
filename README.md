@@ -32,3 +32,5 @@ BoneSegmentationLateral_ImageProcessing.py: Python file containing functions use
 BoneSegmentationLateral_v1.0_User Manual.docx: Word document containing a step-by-step guide in using the main program.
 
 SquareCroppingModel.pt: A model fine-tuned to crop the region of interest from a knee lateral X-ray image.
+
+SampleTrainedModel.pt: A model fine-tuned by me with this program.
